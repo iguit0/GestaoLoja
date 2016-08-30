@@ -1,6 +1,4 @@
-# Projeto-OO-Gestao-Loja
-# Gestao de Loja
-## Management store
+# Gestao de Loja // Management store
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     **** LEIA-ME // READ-ME ****
      Projeto desenvolvido pelos alunos:

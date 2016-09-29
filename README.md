@@ -2,8 +2,8 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     **** LEIA-ME // READ-ME ****
      Projeto desenvolvido pelos alunos:
-     -> Igor Alves - 3902
-     -> Mateus Lopes - 3987
+     -> Igor Alves
+     -> Mateus Lopes
      
      Project was developed by:
      -> Igor Alves
